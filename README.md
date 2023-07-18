@@ -1,16 +1,14 @@
-### Hi there 👋
+### Всем привет 👋, меня зовут Алена
+#### Middle QA Engineer 
 
-<!--
-**aporohova/aporohova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit 5, Gradle, Allure Report, Allure TestOps, Postman, SoapUI
 
-Here are some ideas to get you started:
+- 🔭 Работаю инженером по тестированию в компании LaTech
+- ✔ В области тестирования 5+ лет
+- 👩‍🎓 На текущий момент изучаю JAVA и автоматизированное тестирование
+- 📫 Электронная почта для связи: alena.s.porokhova@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://github.githubassets.com/favicons/favicon.svg' alt='github' height='40'>](https://github.com/aporohova)  [<img src='https://telegram.org/favicon.ico' alt='telegram' height='40'>](https://t.me/alena120894)
+
+
+>
