@@ -13,7 +13,8 @@ Skills: Java, Selenium, Selenide, Appium, Rest Assured, Selenoid, Jenkins, Junit
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aporohova&theme=aura_dark)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aporohova&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aporohova&theme=aura_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aporohova&theme=aura_dark) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aporohova&theme=aura_dark&utcOffset=8)
+
 >
